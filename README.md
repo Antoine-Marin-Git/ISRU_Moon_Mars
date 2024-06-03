@@ -7,7 +7,7 @@ Bringing back humans on the Moon for extended periods of time, and sending them 
 
 Three main processes have been studied for regolith processing (lunar soil):
 
-- Hydrogene reduction of Ilmenite [H2_Plant](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/H2_Plant.py).
+- Hydrogene reduction of Ilmenite ([H2_Plant.py](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/H2_Plant.py)).
 - Carbothermal reduction of Silica
 - Drying of wet regolith/ice in Permanently Shadowed Regions (PSR)
 
