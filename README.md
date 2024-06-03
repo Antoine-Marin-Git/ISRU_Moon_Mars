@@ -13,4 +13,4 @@ Three main processes have been studied for regolith processing (lunar soil):
 
 And Sabatier reactions have been implemented to reduce martian CO2 into usable H2O ([Mars_Atmo_Processing.py](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/Mars_Atmo_Processing.py)).
 
-The regolith extraction phase aswell must be taken into account as it is a crucial step in the overall processing chain ([Extraction_Rovers.py](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/Extraction_Rovers.py)). Additionally, an electrolyzer model is implemented to perform separately water electrolysis if needed ([Electrolyzer.py](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/Electrolyzer.py))
+The regolith extraction phase aswell must be taken into account as it is a crucial step in the overall processing chain ([Extraction_Rovers.py](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/Extraction_Rovers.py)). Additionally, an electrolyzer model is implemented to perform separately water electrolysis if needed ([Electrolyzer.py](https://github.com/Antoine-Marin-Git/ISRU_Moon_Mars/tree/master/Electrolyzer.py)).
